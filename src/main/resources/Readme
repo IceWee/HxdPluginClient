@@ -1,0 +1,1 @@
+把lib下的两个jar文件US_export_policy.jar和local_policy复制到jre/lib/security下覆盖原有文件，否则AES加密失败
